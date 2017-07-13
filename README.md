@@ -22,7 +22,7 @@ This repo's main objective is to capture and help setting up the Linux sub syste
 - After its installed, you can open ubuntu app from the start menu and enjoy using the sub system
 
 ## Installing Node
-Note: apm install nodejs and apm install npm won't work properly and will install old updates of Node.js and npm.
+Note: apt-get install nodejs and apt-get install npm won't work properly and will install old updates of Node.js and npm.
 
 Its not the problem with the subsystem, rather its the Ubuntu way of installing it
 
