@@ -22,11 +22,11 @@ This repo's main objective is to capture and help setting up the Linux sub syste
 - After its installed, you can open ubuntu app from the start menu and enjoy using the sub system
 
 ## Installing Node
-Note: apt-get install nodejs and apt-get install npm won't work properly and will install old updates of Node.js and npm.
+Note: `apt-get install nodejs` and `apt-get install npm` won't work properly and will install old updates of Node.js and npm.
 
-Its not the problem with the subsystem, rather its the Ubuntu way of installing it
+Its not the problem with the subsystem, rather its the Ubuntu way of installing it.
 
-Below are the steps to install npm:
+Below are the steps to install Node.js & npm:
 
 1) Command 1: `curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 sudo apt-get install -y nodejs`
